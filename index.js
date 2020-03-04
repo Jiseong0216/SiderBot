@@ -1,6 +1,5 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const token = process.env.arcadia
 
 const prefix = '-';
 const ownerID = '579196200633237528';
